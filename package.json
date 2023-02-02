@@ -1,0 +1,20 @@
+{
+  "name": "clothes-store-api",
+  "version": "1.0.0",
+  "description": "clothes api for store websites",
+  "main": "index.js",
+  "repository": "https://github.com/Hossein-Haghshenas/clothes-store-api.git",
+  "author": "Hossein <77438070+Hossein-Haghshenas@users.noreply.github.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/Hossein-Haghshenas/clothes-store-api#readme",
+  "bugs": {
+    "url": "https://github.com/Hossein-Haghshenas/clothes-store-api/issues"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
