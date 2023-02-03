@@ -1,43 +1,90 @@
 {
     "products": [
-        {}
+        {
+            "id": 1,
+            "title": "FLARED JEANS",
+            "price": "32,00",
+            "description": "Jeans are the genius wear-with-anything wardrobe item Skinny, straight, or slim, find your perfect jeans fit in the H & N denim collection. Work the hot-right-now high waist in mom jeans and baggy boyfriend styles, and take your blues to the next level with punk badges and rock 'n' roll rips. Wear with a basic tee by day and add barely-there heeled sandals to take your denim from day to night.",
+            "category": "Jeans",
+            "image": "https://cdn.glitch.global/3561b1fe-04cb-4139-b903-63d3ad26797f/jean_1.jpg?v=1675437385317",
+            "rating": {
+                "rate": 4.9,
+                "count": 788
+            }
+        },
+        {
+            "id": 2,
+            "title": "STRETCH SKINNY JEANS",
+            "price": "25,00",
+            "description": "Skinny, straight, or slim, find your perfect jeans fit in the H & N denim collection. Work the hot-right-now high waist in mom jeans and baggy boyfriend styles, and take your blues to the next level with punk badges and rock 'n' roll rips. Wear with a basic tee by day and add barely-there heeled sandals to take your denim from day to night.",
+            "category": "Jeans",
+            "image": "https://cdn.glitch.global/3561b1fe-04cb-4139-b903-63d3ad26797f/jean_2.jfif?v=1675437402091",
+            "rating": {
+                "rate": 5,
+                "count": 225
+            }
+        },
+        {
+            "id": 3,
+            "title": "TAPERED FIT RIGID JEANS",
+            "price": "27,50",
+            "description": "Covering that grey area between smart and casual, jeans are always a solid option when it comes to men's outfits. Jeans are the ultimate staple in every guy's fashion line-up, and they go with just about anything to create a go-to look. Our range of mens jeans gives you the chance to elevate your daily outfit.",
+            "category": "Jeans",
+            "image": "https://cdn.glitch.global/3561b1fe-04cb-4139-b903-63d3ad26797f/jean_3.jpg?v=167543753594",
+            "rating": {
+                "rate": 2.5,
+                "count": 301
+            }
+        },
+        {
+            "id": 4,
+            "title": "RELAXED FIT RIGID JEANS",
+            "price": "21,00",
+            "description": "Whether you prefer skinny denim or you rate a loose fit more, make sure you secure your denim selects here. Dress them down with a hoodie and white trainers, or dress them up with a blazer and slip-ons.100% COTTON.",
+            "category": "Jeans",
+            "image": "https://cdn.glitch.global/3561b1fe-04cb-4139-b903-63d3ad26797f/jean_4.jpg?v=1675437555329",
+            "rating": {
+                "rate": 5.4,
+                "count": 453
+            }
+        }
     ],
-    "category": [
+    "categories": [
         {
             "id": 1,
             "title": "Jeans",
             "productsCount": 0,
-            "image": "https://images.unsplash.com/photo-1542272604-787c3835535d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=726&q=80"
+            "image": "https://cdn.glitch.global/3561b1fe-04cb-4139-b903-63d3ad26797f/jean-category.avif?v=1675427010507"
         },
         {
             "id": 2,
             "title": "Hoodies & Sweats",
             "productsCount": 0,
-            "image": "https://images.unsplash.com/photo-1620799140188-3b2a02fd9a77?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=772&q=80"
+            "image": "https://cdn.glitch.global/3561b1fe-04cb-4139-b903-63d3ad26797f/Hoodies.avif?v=1675427281047"
         },
         {
             "id": 3,
             "title": "Shoes",
             "productsCount": 0,
-            "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+            "image": "https://cdn.glitch.global/3561b1fe-04cb-4139-b903-63d3ad26797f/Shoes.avif?v=1675427502504"
         },
         {
             "id": 4,
             "title": "Coats & Jackets",
             "productsCount": 0,
-            "image": "https://images.unsplash.com/photo-1519027356316-9f99e11d8bac?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+            "image": "https://cdn.glitch.global/3561b1fe-04cb-4139-b903-63d3ad26797f/Coats.avif?v=1675427481944"
         },
         {
             "id": 5,
             "title": "Sportswear",
             "productsCount": 0,
-            "image": "https://images.unsplash.com/photo-1515363435484-5d26011ad7b5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+            "image": "https://cdn.glitch.global/3561b1fe-04cb-4139-b903-63d3ad26797f/Sportswear.avif?v=1675427465356"
         },
         {
             "id": 6,
             "title": "Collection",
             "productsCount": 0,
-            "image": "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+            "image": "https://cdn.glitch.global/3561b1fe-04cb-4139-b903-63d3ad26797f/Collection.avif?v=1675427446926"
         }
     ]
 }
