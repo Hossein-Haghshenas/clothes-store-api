@@ -8,7 +8,7 @@
             "category": "Jeans",
             "image": "https://cdn.glitch.global/3561b1fe-04cb-4139-b903-63d3ad26797f/jean_1.jpg?v=1675437385317",
             "rating": {
-                "rate": 4.9,
+                "rate": 4,
                 "count": 788
             }
         },
@@ -32,7 +32,7 @@
             "category": "Jeans",
             "image": "https://cdn.glitch.global/3561b1fe-04cb-4139-b903-63d3ad26797f/jean_3.jpg?v=167543753594",
             "rating": {
-                "rate": 2.5,
+                "rate": 2,
                 "count": 301
             }
         },
@@ -44,7 +44,7 @@
             "category": "Jeans",
             "image": "https://cdn.glitch.global/3561b1fe-04cb-4139-b903-63d3ad26797f/jean_4.jpg?v=1675437555329",
             "rating": {
-                "rate": 5.4,
+                "rate": 5,
                 "count": 453
             }
         }
