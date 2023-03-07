@@ -1,6 +1,6 @@
 <h1 align="center">Clothes Store Api</h1>
 
-Hey guys its a simple api for clothes store created by nodeJs and json-server you can use that in your project for learn and practice development.container
+Hey guys its a simple api for clothes store created by nodeJs and json-server you can use that in your project for learn and practice development
 
 ### Get Products : https://humorous-perpetual-pipe.glitch.me/products
 
