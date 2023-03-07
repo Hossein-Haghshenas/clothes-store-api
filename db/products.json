@@ -6,7 +6,7 @@
             "price": "32,00",
             "description": "Jeans are the genius wear-with-anything wardrobe item Skinny, straight, or slim, find your perfect jeans fit in the H & N denim collection. Work the hot-right-now high waist in mom jeans and baggy boyfriend styles, and take your blues to the next level with punk badges and rock 'n' roll rips. Wear with a basic tee by day and add barely-there heeled sandals to take your denim from day to night.",
             "category": "Jeans",
-            "image": "https://cdn.glitch.global/3561b1fe-04cb-4139-b903-63d3ad26797f/jean_1.jpg?v=1675437385317",
+            "image": "https://res.cloudinary.com/dnikol93k/image/upload/v1678188211/ecommerce-website/products/jean_1_ca19n2.jpg",
             "rating": {
                 "rate": 4,
                 "count": 788
@@ -18,7 +18,7 @@
             "price": "25,00",
             "description": "Skinny, straight, or slim, find your perfect jeans fit in the H & N denim collection. Work the hot-right-now high waist in mom jeans and baggy boyfriend styles, and take your blues to the next level with punk badges and rock 'n' roll rips. Wear with a basic tee by day and add barely-there heeled sandals to take your denim from day to night.",
             "category": "Jeans",
-            "image": "https://cdn.glitch.global/3561b1fe-04cb-4139-b903-63d3ad26797f/jean_2.jfif?v=1675437402091",
+            "image": "https://res.cloudinary.com/dnikol93k/image/upload/v1678188145/ecommerce-website/products/istockphoto-1271004012-612x612_w6cplp.jpg",
             "rating": {
                 "rate": 5,
                 "count": 225
@@ -30,7 +30,7 @@
             "price": "27,50",
             "description": "Covering that grey area between smart and casual, jeans are always a solid option when it comes to men's outfits. Jeans are the ultimate staple in every guy's fashion line-up, and they go with just about anything to create a go-to look. Our range of mens jeans gives you the chance to elevate your daily outfit.",
             "category": "Jeans",
-            "image": "https://cdn.glitch.global/3561b1fe-04cb-4139-b903-63d3ad26797f/jean_3.jpg?v=167543753594",
+            "image": "https://res.cloudinary.com/dnikol93k/image/upload/v1678187381/ecommerce-website/products/jean_3_amobmq.webp",
             "rating": {
                 "rate": 2,
                 "count": 301
@@ -42,7 +42,7 @@
             "price": "21,00",
             "description": "Whether you prefer skinny denim or you rate a loose fit more, make sure you secure your denim selects here. Dress them down with a hoodie and white trainers, or dress them up with a blazer and slip-ons.100% COTTON.",
             "category": "Jeans",
-            "image": "https://cdn.glitch.global/3561b1fe-04cb-4139-b903-63d3ad26797f/jean_4.jpg?v=1675437555329",
+            "image": "https://res.cloudinary.com/dnikol93k/image/upload/v1678187348/ecommerce-website/products/jean_4_qrlz3m.avif",
             "rating": {
                 "rate": 5,
                 "count": 453
@@ -54,37 +54,37 @@
             "id": 1,
             "title": "Jeans",
             "productsCount": 0,
-            "image": "https://cdn.glitch.global/3561b1fe-04cb-4139-b903-63d3ad26797f/jean-category.avif?v=1675427010507"
+            "image": "https://res.cloudinary.com/dnikol93k/image/upload/v1678188382/ecommerce-website/categories/jean-category_zletb1.avif"
         },
         {
             "id": 2,
             "title": "Hoodies & Sweats",
             "productsCount": 0,
-            "image": "https://cdn.glitch.global/3561b1fe-04cb-4139-b903-63d3ad26797f/Hoodies.avif?v=1675427281047"
+            "image": "https://res.cloudinary.com/dnikol93k/image/upload/v1678187291/ecommerce-website/categories/Hoodies_oszwhg.avif"
         },
         {
             "id": 3,
             "title": "Shoes",
             "productsCount": 0,
-            "image": "https://cdn.glitch.global/3561b1fe-04cb-4139-b903-63d3ad26797f/Shoes.avif?v=1675427502504"
+            "image": "https://res.cloudinary.com/dnikol93k/image/upload/v1678187262/ecommerce-website/categories/Shoes_rddjpc.avif"
         },
         {
             "id": 4,
             "title": "Coats & Jackets",
             "productsCount": 0,
-            "image": "https://cdn.glitch.global/3561b1fe-04cb-4139-b903-63d3ad26797f/Coats.avif?v=1675427481944"
+            "image": "https://res.cloudinary.com/dnikol93k/image/upload/v1678187236/ecommerce-website/categories/Coats_jh9wo3.avif"
         },
         {
             "id": 5,
             "title": "Sportswear",
             "productsCount": 0,
-            "image": "https://cdn.glitch.global/3561b1fe-04cb-4139-b903-63d3ad26797f/Sportswear.avif?v=1675427465356"
+            "image": "https://res.cloudinary.com/dnikol93k/image/upload/v1678187187/ecommerce-website/categories/Sportswear_m8djcx.avif"
         },
         {
             "id": 6,
             "title": "Collection",
             "productsCount": 0,
-            "image": "https://cdn.glitch.global/3561b1fe-04cb-4139-b903-63d3ad26797f/Collection.avif?v=1675427446926"
+            "image": "https://res.cloudinary.com/dnikol93k/image/upload/v1678187145/ecommerce-website/categories/Collection_dvoe4v.avif"
         }
     ]
 }
