@@ -6,7 +6,7 @@
             "price": "32,00",
             "description": "Jeans are the genius wear-with-anything wardrobe item Skinny, straight, or slim, find your perfect jeans fit in the H & N denim collection. Work the hot-right-now high waist in mom jeans and baggy boyfriend styles, and take your blues to the next level with punk badges and rock 'n' roll rips. Wear with a basic tee by day and add barely-there heeled sandals to take your denim from day to night.",
             "category": "Jeans",
-            "image": "https://res.cloudinary.com/dnikol93k/image/upload/v1678188211/ecommerce-website/products/jean_1_ca19n2.jpg",
+            "image": "https://res.cloudinary.com/dnikol93k/image/upload/v1678439691/ecommerce-website/products/istockphoto-1349960077-612x612_z9gxnk.jpg",
             "rating": {
                 "rate": 4,
                 "count": 788
@@ -42,7 +42,7 @@
             "price": "21,00",
             "description": "Whether you prefer skinny denim or you rate a loose fit more, make sure you secure your denim selects here. Dress them down with a hoodie and white trainers, or dress them up with a blazer and slip-ons.100% COTTON.",
             "category": "Jeans",
-            "image": "https://res.cloudinary.com/dnikol93k/image/upload/v1678187348/ecommerce-website/products/jean_4_qrlz3m.avif",
+            "image": "https://res.cloudinary.com/dnikol93k/image/upload/v1678439895/ecommerce-website/products/istockphoto-1179588654-612x612_tb3a3a.jpg",
             "rating": {
                 "rate": 5,
                 "count": 453
@@ -53,38 +53,38 @@
         {
             "id": 1,
             "title": "Jeans",
-            "productsCount": 0,
-            "image": "https://res.cloudinary.com/dnikol93k/image/upload/v1678188382/ecommerce-website/categories/jean-category_zletb1.avif"
+            "productsCount": 4,
+            "image": "https://res.cloudinary.com/dnikol93k/image/upload/v1678437691/ecommerce-website/categories/jeans-category.jpg"
         },
         {
             "id": 2,
             "title": "Hoodies & Sweats",
             "productsCount": 0,
-            "image": "https://res.cloudinary.com/dnikol93k/image/upload/v1678187291/ecommerce-website/categories/Hoodies_oszwhg.avif"
+            "image": "https://res.cloudinary.com/dnikol93k/image/upload/v1678437804/ecommerce-website/categories/hoodies-category.jpg"
         },
         {
             "id": 3,
             "title": "Shoes",
             "productsCount": 0,
-            "image": "https://res.cloudinary.com/dnikol93k/image/upload/v1678187262/ecommerce-website/categories/Shoes_rddjpc.avif"
+            "image": "https://res.cloudinary.com/dnikol93k/image/upload/v1678437804/ecommerce-website/categories/hoodies-category.jpg"
         },
         {
             "id": 4,
             "title": "Coats & Jackets",
             "productsCount": 0,
-            "image": "https://res.cloudinary.com/dnikol93k/image/upload/v1678187236/ecommerce-website/categories/Coats_jh9wo3.avif"
+            "image": "https://res.cloudinary.com/dnikol93k/image/upload/v1678438131/ecommerce-website/categories/coats-category.jpg"
         },
         {
             "id": 5,
             "title": "Sportswear",
             "productsCount": 0,
-            "image": "https://res.cloudinary.com/dnikol93k/image/upload/v1678187187/ecommerce-website/categories/Sportswear_m8djcx.avif"
+            "image": "https://res.cloudinary.com/dnikol93k/image/upload/v1678438021/ecommerce-website/categories/sportswear-category.jpg"
         },
         {
             "id": 6,
             "title": "Collection",
             "productsCount": 0,
-            "image": "https://res.cloudinary.com/dnikol93k/image/upload/v1678187145/ecommerce-website/categories/Collection_dvoe4v.avif"
+            "image": "https://res.cloudinary.com/dnikol93k/image/upload/v1678438295/ecommerce-website/categories/collection-category.jpg"
         }
     ]
 }
