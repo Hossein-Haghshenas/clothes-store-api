@@ -47,6 +47,272 @@
                 "rate": 5,
                 "count": 453
             }
+        },
+        {
+            "id": 5,
+            "title": "FLARED JEANS",
+            "price": "56,00",
+            "description": "Jeans are the genius wear-with-anything wardrobe item Skinny, straight, or slim, find your perfect jeans fit in the H & N denim collection. Work the hot-right-now high waist in mom jeans and baggy boyfriend styles, and take your blues to the next level with punk badges and rock 'n' roll rips. Wear with a basic tee by day and add barely-there heeled sandals to take your denim from day to night.",
+            "category": "Hoodies & Sweats",
+            "image": "https://res.cloudinary.com/dnikol93k/image/upload/v1681292308/ecommerce-website/products/hoodie-1_oibip5.jpg",
+            "rating": {
+                "rate": 3,
+                "count": 588
+            }
+        },
+        {
+            "id": 6,
+            "title": "STRETCH SKINNY JEANS",
+            "price": "23,00",
+            "description": "Skinny, straight, or slim, find your perfect jeans fit in the H & N denim collection. Work the hot-right-now high waist in mom jeans and baggy boyfriend styles, and take your blues to the next level with punk badges and rock 'n' roll rips. Wear with a basic tee by day and add barely-there heeled sandals to take your denim from day to night.",
+            "category": "Hoodies & Sweats",
+            "image": "https://res.cloudinary.com/dnikol93k/image/upload/v1681292307/ecommerce-website/products/hoodie-2_pjxh2p.jpg",
+            "rating": {
+                "rate": 3,
+                "count": 125
+            }
+        },
+        {
+            "id": 7,
+            "title": "TAPERED FIT RIGID JEANS",
+            "price": "45,50",
+            "description": "Covering that grey area between smart and casual, jeans are always a solid option when it comes to men's outfits. Jeans are the ultimate staple in every guy's fashion line-up, and they go with just about anything to create a go-to look. Our range of mens jeans gives you the chance to elevate your daily outfit.",
+            "category": "Hoodies & Sweats",
+            "image": "https://res.cloudinary.com/dnikol93k/image/upload/v1681292312/ecommerce-website/products/hoodie-3_kf806j.jpg",
+            "rating": {
+                "rate": 5,
+                "count": 751
+            }
+        },
+        {
+            "id": 8,
+            "title": "RELAXED FIT RIGID JEANS",
+            "price": "75,00",
+            "description": "Whether you prefer skinny denim or you rate a loose fit more, make sure you secure your denim selects here. Dress them down with a hoodie and white trainers, or dress them up with a blazer and slip-ons.100% COTTON.",
+            "category": "Hoodies & Sweats",
+            "image": "https://res.cloudinary.com/dnikol93k/image/upload/v1681292314/ecommerce-website/products/hoodie-4_dhqz6p.jpg",
+            "rating": {
+                "rate": 4,
+                "count": 459
+            }
+        },
+        {
+            "id": 9,
+            "title": "FLARED Shoes",
+            "price": "45,00",
+            "description": "Jeans are the genius wear-with-anything wardrobe item Skinny, straight, or slim, find your perfect jeans fit in the H & N denim collection. Work the hot-right-now high waist in mom jeans and baggy boyfriend styles, and take your blues to the next level with punk badges and rock 'n' roll rips. Wear with a basic tee by day and add barely-there heeled sandals to take your denim from day to night.",
+            "category": "Shoes",
+            "image": "https://res.cloudinary.com/dnikol93k/image/upload/v1681292311/ecommerce-website/products/shoes-1_lbhxqb.jpg",
+            "rating": {
+                "rate": 2,
+                "count": 775
+            }
+        },
+        {
+            "id": 10,
+            "title": "STRETCH SKINNY Shoes",
+            "price": "57,00",
+            "description": "Skinny, straight, or slim, find your perfect jeans fit in the H & N denim collection. Work the hot-right-now high waist in mom jeans and baggy boyfriend styles, and take your blues to the next level with punk badges and rock 'n' roll rips. Wear with a basic tee by day and add barely-there heeled sandals to take your denim from day to night.",
+            "category": "Shoes",
+            "image": "https://res.cloudinary.com/dnikol93k/image/upload/v1681292314/ecommerce-website/products/shoes-2_hehjmy.jpg",
+            "rating": {
+                "rate": 5,
+                "count": 495
+            }
+        },
+        {
+            "id": 11,
+            "title": "TAPERED FIT RIGID Shoes",
+            "price": "89,50",
+            "description": "Covering that grey area between smart and casual, jeans are always a solid option when it comes to men's outfits. Jeans are the ultimate staple in every guy's fashion line-up, and they go with just about anything to create a go-to look. Our range of mens jeans gives you the chance to elevate your daily outfit.",
+            "category": "Shoes",
+            "image": "https://res.cloudinary.com/dnikol93k/image/upload/v1681292312/ecommerce-website/products/shoes-3_iaovlh.jpg",
+            "rating": {
+                "rate": 3,
+                "count": 871
+            }
+        },
+        {
+            "id": 12,
+            "title": "RELAXED FIT RIGID Shoes",
+            "price": "45,00",
+            "description": "Whether you prefer skinny denim or you rate a loose fit more, make sure you secure your denim selects here. Dress them down with a hoodie and white trainers, or dress them up with a blazer and slip-ons.100% COTTON.",
+            "category": "Shoes",
+            "image": "https://res.cloudinary.com/dnikol93k/image/upload/v1681292312/ecommerce-website/products/shoes-4_p5zdoj.jpg",
+            "rating": {
+                "rate": 5,
+                "count": 323
+            }
+        },
+        {
+            "id": 13,
+            "title": "FLARED Coats",
+            "price": "16,00",
+            "description": "Jeans are the genius wear-with-anything wardrobe item Skinny, straight, or slim, find your perfect jeans fit in the H & N denim collection. Work the hot-right-now high waist in mom jeans and baggy boyfriend styles, and take your blues to the next level with punk badges and rock 'n' roll rips. Wear with a basic tee by day and add barely-there heeled sandals to take your denim from day to night.",
+            "category": "Coats & Jackets",
+            "image": "https://res.cloudinary.com/dnikol93k/image/upload/v1681292298/ecommerce-website/products/coats-1_lularl.jpg",
+            "rating": {
+                "rate": 4,
+                "count": 458
+            }
+        },
+        {
+            "id": 14,
+            "title": "STRETCH SKINNY Coats",
+            "price": "34,00",
+            "description": "Skinny, straight, or slim, find your perfect jeans fit in the H & N denim collection. Work the hot-right-now high waist in mom jeans and baggy boyfriend styles, and take your blues to the next level with punk badges and rock 'n' roll rips. Wear with a basic tee by day and add barely-there heeled sandals to take your denim from day to night.",
+            "category": "Coats & Jackets",
+            "image": "https://res.cloudinary.com/dnikol93k/image/upload/v1681292300/ecommerce-website/products/coats-2_zhohpn.jpg",
+            "rating": {
+                "rate": 2,
+                "count": 264
+            }
+        },
+        {
+            "id": 15,
+            "title": "TAPERED FIT RIGID Jackets",
+            "price": "46,50",
+            "description": "Covering that grey area between smart and casual, jeans are always a solid option when it comes to men's outfits. Jeans are the ultimate staple in every guy's fashion line-up, and they go with just about anything to create a go-to look. Our range of mens jeans gives you the chance to elevate your daily outfit.",
+            "category": "Coats & Jackets",
+            "image": "https://res.cloudinary.com/dnikol93k/image/upload/v1681292305/ecommerce-website/products/coats-3_gm0eys.jpg",
+            "rating": {
+                "rate": 5,
+                "count": 324
+            }
+        },
+        {
+            "id": 16,
+            "title": "RELAXED FIT RIGID Jackets",
+            "price": "61,00",
+            "description": "Whether you prefer skinny denim or you rate a loose fit more, make sure you secure your denim selects here. Dress them down with a hoodie and white trainers, or dress them up with a blazer and slip-ons.100% COTTON.",
+            "category": "Coats & Jackets",
+            "image": "https://res.cloudinary.com/dnikol93k/image/upload/v1681292304/ecommerce-website/products/coats-4_hthfwc.jpg",
+            "rating": {
+                "rate": 3,
+                "count": 159
+            }
+        },
+        {
+            "id": 17,
+            "title": "FLARED Sportswear",
+            "price": "45,00",
+            "description": "Sportswear are the genius wear-with-anything wardrobe item Skinny, straight, or slim, find your perfect jeans fit in the H & N denim collection. Work the hot-right-now high waist in mom jeans and baggy boyfriend styles, and take your blues to the next level with punk badges and rock 'n' roll rips. Wear with a basic tee by day and add barely-there heeled sandals to take your denim from day to night.",
+            "category": "Sportswear",
+            "image": "https://res.cloudinary.com/dnikol93k/image/upload/v1681292301/ecommerce-website/products/sportswear-1_bqmvpb.jpg",
+            "rating": {
+                "rate": 3,
+                "count": 425
+            }
+        },
+        {
+            "id": 18,
+            "title": "STRETCH SKINNY Sportswear",
+            "price": "25,00",
+            "description": "Skinny, straight, or slim, find your perfect jeans fit in the H & N denim collection. Work the hot-right-now high waist in mom jeans and baggy boyfriend styles, and take your blues to the next level with punk badges and rock 'n' roll rips. Wear with a basic tee by day and add barely-there heeled sandals to take your denim from day to night.",
+            "category": "Sportswear",
+            "image": "https://res.cloudinary.com/dnikol93k/image/upload/v1681292303/ecommerce-website/products/sportswear-2_ji6zek.jpg",
+            "rating": {
+                "rate": 4,
+                "count": 485
+            }
+        },
+        {
+            "id": 19,
+            "title": "TAPERED FIT RIGID Sportswear",
+            "price": "27,50",
+            "description": "Covering that grey area between smart and casual, jeans are always a solid option when it comes to men's outfits. Jeans are the ultimate staple in every guy's fashion line-up, and they go with just about anything to create a go-to look. Our range of mens jeans gives you the chance to elevate your daily outfit.",
+            "category": "Sportswear",
+            "image": "https://res.cloudinary.com/dnikol93k/image/upload/v1681292302/ecommerce-website/products/sportswear-3_ysgrgf.jpg",
+            "rating": {
+                "rate": 5,
+                "count": 361
+            }
+        },
+        {
+            "id": 20,
+            "title": "RELAXED FIT RIGID Sportswear",
+            "price": "21,00",
+            "description": "Whether you prefer skinny denim or you rate a loose fit more, make sure you secure your denim selects here. Dress them down with a hoodie and white trainers, or dress them up with a blazer and slip-ons.100% COTTON.",
+            "category": "Sportswear",
+            "image": "https://res.cloudinary.com/dnikol93k/image/upload/v1681292304/ecommerce-website/products/sportswear-4_ilhlcz.jpg",
+            "rating": {
+                "rate": 3,
+                "count": 423
+            }
+        },
+        {
+            "id": 21,
+            "title": "FLARED Collection",
+            "price": "38,00",
+            "description": "Collection are the genius wear-with-anything wardrobe item Skinny, straight, or slim, find your perfect jeans fit in the H & N denim collection. Work the hot-right-now high waist in mom jeans and baggy boyfriend styles, and take your blues to the next level with punk badges and rock 'n' roll rips. Wear with a basic tee by day and add barely-there heeled sandals to take your denim from day to night.",
+            "category": "Collection",
+            "image": "https://res.cloudinary.com/dnikol93k/image/upload/v1681292303/ecommerce-website/products/collection-1_iel2lp.jpg",
+            "rating": {
+                "rate": 5,
+                "count": 988
+            }
+        },
+        {
+            "id": 22,
+            "title": "STRETCH SKINNY Collection",
+            "price": "73,00",
+            "description": "Skinny, straight, or slim, find your perfect jeans fit in the H & N denim collection. Work the hot-right-now high waist in mom jeans and baggy boyfriend styles, and take your blues to the next level with punk badges and rock 'n' roll rips. Wear with a basic tee by day and add barely-there heeled sandals to take your denim from day to night.",
+            "category": "Collection",
+            "image": "https://res.cloudinary.com/dnikol93k/image/upload/v1681292309/ecommerce-website/products/collection-2_rbysej.jpg",
+            "rating": {
+                "rate": 4,
+                "count": 625
+            }
+        },
+        {
+            "id": 23,
+            "title": "TAPERED FIT RIGID Collection",
+            "price": "43,50",
+            "description": "Covering that grey area between smart and casual, jeans are always a solid option when it comes to men's outfits. Jeans are the ultimate staple in every guy's fashion line-up, and they go with just about anything to create a go-to look. Our range of mens jeans gives you the chance to elevate your daily outfit.",
+            "category": "Collection",
+            "image": "https://res.cloudinary.com/dnikol93k/image/upload/v1681292309/ecommerce-website/products/collection-3_o3rjpl.jpg",
+            "rating": {
+                "rate": 2,
+                "count": 101
+            }
+        },
+        {
+            "id": 24,
+            "title": "RELAXED FIT RIGID Collection",
+            "price": "64,00",
+            "description": "Whether you prefer skinny denim or you rate a loose fit more, make sure you secure your denim selects here. Dress them down with a hoodie and white trainers, or dress them up with a blazer and slip-ons.100% COTTON.",
+            "category": "Collection",
+            "image": "https://res.cloudinary.com/dnikol93k/image/upload/v1681292310/ecommerce-website/products/collection-4_sdf5z4.jpg",
+            "rating": {
+                "rate": 3,
+                "count": 543
+            }
+        }
+    ],
+    "blogPosts": [
+        {
+            "id": 1,
+            "title": "BY NATALIE MEADE",
+            "description": "The Story Behind The Lost Tribe, Trinidad and Tobago Carnival's Most Fashionable Carnival Band",
+            "image": "https://res.cloudinary.com/dnikol93k/image/upload/v1681299561/ecommerce-website/blog/post-1_jjm2oy.jpg"
+        },
+        {
+            "id": 2,
+            "title": "BY LILY COLE",
+            "description": "Ten models, ten looks, one famous cat. At Paris's Grand Palais, ten designers cast Karl Lagerfeld’s legacy into the future.",
+            "image": "https://res.cloudinary.com/dnikol93k/image/upload/v1681299566/ecommerce-website/blog/post-2_cnftge.jpg"
+        },
+        {
+            "id": 3,
+            "title": "BY CHRISTIAN ALLAIRE",
+            "description": "French fashion brand Lacoste has teamed up with Netflix to launch a limited-edition apparel collection inspired",
+            "image": "https://res.cloudinary.com/dnikol93k/image/upload/v1681299573/ecommerce-website/blog/post-3_cb7fpa.jpg"
+        },
+        {
+            "id": 4,
+            "title": "BY IRENE KIM",
+            "description": "American Vogue has cast iconic designer Karl Lagerfeld in the spotlight, featuring 10 looks of the master’s creations for the cover of its May",
+            "image": "https://res.cloudinary.com/dnikol93k/image/upload/v1681299579/ecommerce-website/blog/post-4_xrravt.jpg"
         }
     ],
     "categories": [
@@ -59,31 +325,31 @@
         {
             "id": 2,
             "title": "Hoodies & Sweats",
-            "productsCount": 0,
+            "productsCount": 4,
             "image": "https://res.cloudinary.com/dnikol93k/image/upload/v1678437804/ecommerce-website/categories/hoodies-category.jpg"
         },
         {
             "id": 3,
             "title": "Shoes",
-            "productsCount": 0,
-            "image": "https://res.cloudinary.com/dnikol93k/image/upload/v1678437804/ecommerce-website/categories/hoodies-category.jpg"
+            "productsCount": 4,
+            "image": "https://res.cloudinary.com/dnikol93k/image/upload/v1678437926/ecommerce-website/categories/shoes-category.jpg"
         },
         {
             "id": 4,
             "title": "Coats & Jackets",
-            "productsCount": 0,
+            "productsCount": 4,
             "image": "https://res.cloudinary.com/dnikol93k/image/upload/v1678438131/ecommerce-website/categories/coats-category.jpg"
         },
         {
             "id": 5,
             "title": "Sportswear",
-            "productsCount": 0,
+            "productsCount": 4,
             "image": "https://res.cloudinary.com/dnikol93k/image/upload/v1678438021/ecommerce-website/categories/sportswear-category.jpg"
         },
         {
             "id": 6,
             "title": "Collection",
-            "productsCount": 0,
+            "productsCount": 4,
             "image": "https://res.cloudinary.com/dnikol93k/image/upload/v1678438295/ecommerce-website/categories/collection-category.jpg"
         }
     ]
