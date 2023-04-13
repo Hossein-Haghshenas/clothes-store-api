@@ -4,6 +4,8 @@ Hey guys its a simple api for clothes store created by nodeJs and json-server yo
 
 ### Get Products : https://humorous-perpetual-pipe.glitch.me/products
 
+### Get Posts : https://humorous-perpetual-pipe.glitch.me/blogPosts
+
 ### Get Categories : https://humorous-perpetual-pipe.glitch.me/categories
 
 
